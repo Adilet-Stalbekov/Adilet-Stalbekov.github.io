@@ -11,7 +11,7 @@ img {
 header {
 	padding-top: 59px;
 	padding-bottom: 22px;
-	background-color: #7C45D6;
+	background-color: linear-gradient(-90deg, #312ABF , #852D91);
 	color: #ffffff;
 }
 .header-pretitle {
